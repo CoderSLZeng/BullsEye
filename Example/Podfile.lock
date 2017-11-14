@@ -1,0 +1,16 @@
+PODS:
+  - BullsEye (0.1.0)
+
+DEPENDENCIES:
+  - BullsEye (from `../`)
+
+EXTERNAL SOURCES:
+  BullsEye:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BullsEye: d316e5935b214f581396e91a995f61a479c9b522
+
+PODFILE CHECKSUM: 7e6c37dde745a96036c7e9c558a8ca4fb592094e
+
+COCOAPODS: 1.3.1
