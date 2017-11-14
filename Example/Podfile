@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BullsEye_Example' do
+  pod 'BullsEye', :path => '../'
+
+  target 'BullsEye_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
